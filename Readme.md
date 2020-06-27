@@ -11,6 +11,8 @@ git clone https://github.com/tatyanabak/Template_for_project_with_Gulp_and_Boots
 
 cd my-project
 
+git remote set-url origin new-remote-url
+
 npm install
 
 ---
